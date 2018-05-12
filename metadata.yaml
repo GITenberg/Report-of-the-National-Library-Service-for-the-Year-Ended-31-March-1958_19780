@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8881'
     url: http://www.gutenberg.org/2009/agents/8881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19780#Report-of-the-National-Library-Service-for-the-Year-Ended-31-March-1958
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2006-11-13'
 gutenberg_type: Text
