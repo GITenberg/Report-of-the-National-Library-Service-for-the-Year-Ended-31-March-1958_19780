@@ -1,0 +1,26 @@
+_repo: Report-of-the-National-Library-Service-for-the-Year-Ended-31-March-1958_19780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New Zealand. National Library Service
+    gutenberg_agent_id: '8881'
+    url: http://www.gutenberg.org/2009/agents/8881
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2006-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National libraries -- New Zealand -- Periodicals'
+- !lcsh 'New Zealand. National Library Service -- Periodicals'
+- !lcc 'Z'
+title: Report of the National Library Service for the Year Ended 31 March 1958
+url: http://www.gutenberg.org/ebooks/19780
